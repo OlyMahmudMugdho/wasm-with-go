@@ -1,0 +1,1 @@
+## doc link [https://github.com/golang/go/wiki/WebAssembly#getting-started](https://github.com/golang/go/wiki/WebAssembly#getting-started)
